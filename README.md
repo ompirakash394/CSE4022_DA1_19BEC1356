@@ -15,8 +15,7 @@ Digital Assignment -1
 
 •	List the most frequent tokens
 
-•	Count the number of sentences 
-
+•	Count the number of sentences
 
 2.	Explore the corpora available in NLTK
 (3 Marks)
