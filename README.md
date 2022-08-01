@@ -1,7 +1,8 @@
 # CSE4022_DA1_19BEC1356
-CSE4022 Natural Language Processing
-Digital Assignment -1
 
+CSE4022 Natural Language Processing
+
+Digital Assignment -1
 1.	Utilize Python NLTK (Natural Language Tool Kit) Platform and do the following. Install relevant Packages and Libraries
 (7 Marks)
 
@@ -16,7 +17,6 @@ Digital Assignment -1
 •	List the most frequent tokens
 
 •	Count the number of sentences
-
 2.	Explore the corpora available in NLTK
 (3 Marks)
 
